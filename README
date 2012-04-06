@@ -1,3 +1,11 @@
+For windows only, the linux version will be up in a day or two.
 An application to find duplicates on your Hard Disk.
-Open the terminal, go to the directory, and type 'java -jar DFv2.0.jar'
+Open the directory and double click on 'DFv2.0'
+or, open cmd, go to the directory, and type 'java -jar DFv2.0'
 When the GUI opens, Either select the folder using the browse button, or type the address to search.
+This application searches for Duplicates under a specified folder, and returns the results for duplicate files.
+Then you can delete the duplicate files. Also, files accidently deleted can also be recovered.
+
+-Divyanshu Verma
+4th Semester, BE I&CT
+Manipal Institute Of Technology

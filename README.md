@@ -14,7 +14,7 @@ Then you can delete the duplicate files. Also, files accidently deleted can also
 To Run
 -------
 
-Open terminal and go to the source directory. Type `java UIMain`
+Open terminal and go to the source directory. Compile and run `java UIMain`
 
 Runs on both windows and linux.
 

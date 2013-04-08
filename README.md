@@ -1,8 +1,5 @@
 DuplicateFinder
-================
-
-Description
-------------
+===============
 
 An application to find duplicates on your Hard Disk.
 Clear your system of duplicate files that are eating up your hard disk space!!
